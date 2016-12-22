@@ -15,8 +15,8 @@
 /.idea
 .c9/
 *.launch
-#.project
-#.classpath
+.project
+.classpath
 
 # misc
 /.sass-cache
