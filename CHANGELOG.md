@@ -11,5 +11,5 @@
 ## Contributors
 - franchoo [twitter](https://twitter.com/Franchooo42) [linkedin](https://www.linkedin.com/in/frank-cardona-845a03b1)
 
-## Licensed
+## Organization
 - redtide [facebook](https://www.facebook.com/redtide.co)
